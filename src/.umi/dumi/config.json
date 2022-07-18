@@ -1,0 +1,41 @@
+{
+  "menus": {
+    "en-US": {
+      "/components": [
+        {
+          "title": "Components",
+          "path": "/components/foo",
+          "meta": {},
+          "children": [
+            {
+              "path": "/components/foo",
+              "title": "Foo",
+              "meta": {}
+            }
+          ]
+        }
+      ],
+      "*": [
+        {
+          "path": "/",
+          "title": "Hello Esther-ui-component!",
+          "meta": {}
+        }
+      ]
+    }
+  },
+  "locales": [
+    {
+      "name": "en-US",
+      "label": "English"
+    }
+  ],
+  "navs": {},
+  "title": "Esther-ui-component",
+  "mode": "doc",
+  "repository": {
+    "url": "",
+    "branch": "master"
+  },
+  "theme": {}
+}

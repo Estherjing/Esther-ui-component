@@ -1,0 +1,19 @@
+{
+    "extends": "stylelint-config-standard",
+    "syntax": "less",
+    "rules": {
+      "indentation": [
+        2,
+        {
+          "except": [
+            "value"
+          ],
+          "severity": "warning"
+        }
+      ],
+      "number-leading-zero": null,
+      "color-hex-case": null,
+      "unit-case": null,
+      "font-family-no-missing-generic-family-keyword": null
+    }
+  }

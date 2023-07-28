@@ -1,5 +1,7 @@
 # Esther-ui-component
 
+> 一款好用的UI组件库，适用于日常各种应用场景
+
 ## Getting Started
 
 Install dependencies,
